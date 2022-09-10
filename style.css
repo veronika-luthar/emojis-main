@@ -1,0 +1,22 @@
+﻿body {
+    overflow: hidden;
+}
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.grid-div {
+    position: center;
+    height: 5vh;
+    width: 5vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    font-size: 10vh;
+    text-align: center;
+    font-weight: 600;
+}
